@@ -1,9 +1,0 @@
-echo "# IBM-Data-Science-certification" >> README.md
-git init
-git add README.md
-git add Tools for Data Science.ipynb
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/KannetiBhargav/IBM-Data-Science-certification.git
-git push -u origin main
-
